@@ -1,0 +1,7 @@
+n1 = int(input('Um valor: '))
+n2 = int(input('Outro valor: '))
+print(f'A soma vale {n1+n2}', end='. ')
+print(f'O produto é {n1*n2}', end='. ')
+print(f'A divisão é {n1/n2}', end='. ')
+print(f'A divisão inteira é {n1//n2}', end='. ')
+print(f'A potência é {n1**n2}', end='. ')

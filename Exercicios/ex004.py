@@ -1,0 +1,8 @@
+n = input('Digite algo: ')
+print(f'Tem apenas letras? {n.isalpha()}')
+print(f'Tem apenas números? {n.isnumeric()}')
+print(f'Tem apenas letras maiusculas? {n.isupper()}')
+print(f'Tem apenas letras minusculas? {n.islower()}')
+print(f'Tem letra ou número? {n.isalnum()}')
+print(f'Começa com maiuscula? {n.istitle()}')
+print(f'É apenas espaço? {n.isspace()}')
