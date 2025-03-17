@@ -27,7 +27,7 @@ O projeto foi desenvolvido com as seguintes tecnologias:
 
 Para instalar e executar o projeto, siga os passos abaixo:
 
-```sh
+```py
 # Clone este repositório
 git clone https://github.com/FascinaDu/PythonMundo01.git
 
@@ -48,7 +48,8 @@ Execute algum dos exercícios ou aulas
 
 (Exercícios: *ex000.py* até *ex035.py*)
 (Aulas: *aula03a.py* até *aula11a.py*)
-```sh
+
+```py
 python ex000.py
 python aula03a.py
 ```
