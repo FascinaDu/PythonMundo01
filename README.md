@@ -1,4 +1,4 @@
-# 🐍 Python Mundo 01
+# 🐍 Python 
 
 > Desafios e Exercícios feitos no Curso de: **Python Mundo 01 - Curso em Vídeo**
 
@@ -29,10 +29,10 @@ Para instalar e executar o projeto, siga os passos abaixo:
 
 ```py
 # Clone este repositório
-git clone https://github.com/FascinaDu/PythonMundo01.git
+git clone https://github.com/FascinaDu/curso-python.git
 
 # Acesse a pasta do projeto
-cd PythonMundo01
+cd curso-python
 
 #Veja os arquivos dentro das pastas:
 cd exercicios
