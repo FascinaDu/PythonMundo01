@@ -1,1 +1,1 @@
-print('Pinto')
+print('Olá, mundo!')
