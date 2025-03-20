@@ -35,8 +35,8 @@ git clone https://github.com/FascinaDu/PythonMundo01.git
 cd PythonMundo01
 
 #Veja os arquivos dentro das pastas:
-cd exercicio
-cd aula
+cd exercicios
+cd aulas
 
 #Exemplos:
 python ex003.py
